@@ -1,0 +1,19 @@
+Type: Package
+Package: jrGitForUs
+Title: Jumping Rivers: Git For Us
+Version: 0.0.1
+Authors@R: 
+    person(given = "Jumping",
+           family = "Rivers",
+           role = c("aut", "cre"),
+           email = "training@jumpingrivers.com")
+Description: Practicals and data sets for the Git For Us course
+    run by Jumping Rivers.
+License: GPL-3
+URL: https://www.jumpingrivers.com/
+Depends:
+    R (>= 3.2.0)
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+RoxygenNote: 7.0.2
