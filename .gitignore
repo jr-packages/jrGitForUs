@@ -9,6 +9,9 @@
 # Session Data files
 .RData
 
+# User-specific files
+.Ruserdata
+
 # Example code in package build process
 *-Ex.R
 
@@ -40,3 +43,8 @@ vignettes/*.log
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# R Environment Variables
+.Renviron
+
+.DS_Store
